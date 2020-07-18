@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## MasterThesis blog
 
-You can use the [editor on GitHub](https://github.com/chumpblocckami/MasterThesis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# A piece of code a day (Starting from 01/08/2020)
 
-### Markdown
+## TO DO LIST:
+### 0. Beginning (18/07/2020 - 01/08/2020)
+- [ ] How pages works, know the syntax, try to understand how add pages
+- [ ] Read some literature about detect mental state using NLP 
+- [ ] GANTT and understand how much time for every step
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Data Managment (01/08/2020 - 01/09/2020)
+- [ ] Kafka for stream acquisition
+- [ ] Kafka, MongoDB and TwitterListener in Docker on Azure
+- [ ] Jupyter/Spark in Docker on HDFS that load MongoDB (is that possible?)
 
-```markdown
-Syntax highlighted code block
+### 2. Data Analysis (01/09/2020 - 01/11/2020)
+- [ ] Spark 
+- [ ] Keras in Spark
+- [ ] Community detection
+- [ ] Sentiment Analysis
+- [ ] 
 
-# Header 1
-## Header 2
-### Header 3
+### 3. Presentation (01/01/2021 - )
+- [ ] What and How present everything
+- [ ] Flask app dashboard
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chumpblocckami/MasterThesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That's all (**for now.**)
