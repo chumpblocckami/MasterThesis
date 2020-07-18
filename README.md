@@ -33,7 +33,10 @@
 
 ### Literature and interesting stuff:
 - [NLP and Mental Health](https://www.researchgate.net/publication/313127241_Natural_language_processing_in_mental_health_applications_using_non-clinical_texts)
-- ...
+- [Learning to identify emotions in text] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.62&rep=rep1&type=pdf)
+
+##### Note:
+- Carlo Strapparava è di Trento
 
 
 That's all (**for now.**)
