@@ -21,7 +21,7 @@
 - [ ] Keras in Spark
 - [ ] Community detection
 - [ ] Sentiment Analysis
-- [ ] 
+- [ ] Optimization
 
 ### 3. Presentation (01/01/2021 - )
 - [ ] What and How present everything
