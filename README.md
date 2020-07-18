@@ -5,6 +5,8 @@
 
 ## TO DO LIST:
 ### 0. Beginning (18/07/2020 - 01/08/2020)
+[BLOG]https://github.com/chumpblocckami/MasterThesis/edit/master/July.md
+
 - [ ] How pages works, know the syntax, try to understand how add pages
 - [ ] Read some literature about detect mental state using NLP 
 - [ ] GANTT and understand how much time for every step
