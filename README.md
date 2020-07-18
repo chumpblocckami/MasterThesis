@@ -1,7 +1,7 @@
 ## MasterThesis blog
 
 
-# A piece of code a day (Starting from 01/08/2020)
+# Detect psychological impact of covid-19 through user generated small text.
 
 ## TO DO LIST:
 ### 0. Beginning (18/07/2020 - 01/08/2020)
@@ -21,11 +21,19 @@
 - [ ] Keras in Spark
 - [ ] Community detection
 - [ ] Sentiment Analysis
+- [ ] Other models for mental state detection
 - [ ] Optimization
 
 ### 3. Presentation (01/01/2021 - )
 - [ ] What and How present everything
 - [ ] Flask app dashboard
+
+### (H)Acknowledgments:
+- ...
+
+### Literature and interesting stuff:
+- [NLP and Mental Health](https://www.researchgate.net/publication/313127241_Natural_language_processing_in_mental_health_applications_using_non-clinical_texts)
+- ...
 
 
 That's all (**for now.**)
