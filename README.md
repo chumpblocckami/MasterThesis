@@ -1,7 +1,7 @@
 ## MasterThesis blog
 
 
-# Detect psychological impact of covid-19 through user generated small text.
+# Detect psychological impact of covid-19 through user generated small texts
 
 ## TO DO LIST:
 ### 0. Beginning (18/07/2020 - 01/08/2020)
