@@ -29,11 +29,12 @@
 - [ ] Flask app dashboard
 
 ### (H)Acknowledgments:
-- ...
+- [Kafka Documentation](https://kafka.apache.org/documentation)
 
 ### Literature and interesting stuff:
 - [NLP and Mental Health](https://www.researchgate.net/publication/313127241_Natural_language_processing_in_mental_health_applications_using_non-clinical_texts)
 - [Learning to identify emotions in text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.62&rep=rep1&type=pdf)
+- [Assessing the Distributional Hypothesis in Word Bigrams](https://iris.unitn.it/retrieve/handle/11572/249655/297594/2019_how_much_competence_in_performance.pdf)
 
 ##### Note:
 - Carlo Strapparava è di Trento
