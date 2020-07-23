@@ -19,7 +19,7 @@
 
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
 - [ ] Spark 
-- [ ] Keras in Spark
+- [ ] Keras/Theano in Spark
 - [ ] Community detection
 - [ ] Sentiment Analysis
 - [ ] Other models for mental state detection
@@ -31,6 +31,7 @@
 
 ### (H)Acknowledgments:
 - [Kafka Documentation](https://kafka.apache.org/documentation)
+- [Elastic Search Python Driver] (https://elasticsearch-py.readthedocs.io/en/master/)
 
 ### Literature and interesting stuff:
 #### General:
