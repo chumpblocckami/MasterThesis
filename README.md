@@ -34,10 +34,12 @@
 - [Elastic Search Python Driver] (https://elasticsearch-py.readthedocs.io/en/master/)
 
 ### Literature and interesting stuff:
+
 #### General:
 - [NLP and Mental Health](https://www.researchgate.net/publication/313127241_Natural_language_processing_in_mental_health_applications_using_non-clinical_texts)
 - [Learning to identify emotions in text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.62&rep=rep1&type=pdf)
 - [Assessing the Distributional Hypothesis in Word Bigrams](https://iris.unitn.it/retrieve/handle/11572/249655/297594/2019_how_much_competence_in_performance.pdf)
+
 #### Stance Detection:
 - [Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention](https://arxiv.org/pdf/1801.03032.pdf)
 - [Stance Detection in Web and Social Media: A Comparative Study](https://arxiv.org/pdf/2007.05976.pdf)
