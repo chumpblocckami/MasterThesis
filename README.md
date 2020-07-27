@@ -31,7 +31,7 @@
 
 ### (H)Acknowledgments:
 - [Kafka Documentation](https://kafka.apache.org/documentation)
-- [Elastic Search Python Driver] (https://elasticsearch-py.readthedocs.io/en/master/)
+- [Elastic Search Python Driver](https://elasticsearch-py.readthedocs.io/en/master/)
 
 ### Literature and interesting stuff:
 
