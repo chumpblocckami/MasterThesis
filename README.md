@@ -42,9 +42,11 @@
 
 #### Latent Dirichlet Allocation
 - [Latent Dirichlet Allocation Andrew Y. Ng](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 #### Stance Detection:
 - [Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention](https://arxiv.org/pdf/1801.03032.pdf)
 - [Stance Detection in Web and Social Media: A Comparative Study](https://arxiv.org/pdf/2007.05976.pdf)
+- [SOTA: stance detection](https://paperswithcode.com/sota/stance-detection-on-rumoureval)
 
 ##### Note:
 - Carlo Strapparava è di Trento
