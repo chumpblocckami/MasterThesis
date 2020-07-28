@@ -1,3 +1,6 @@
+### Mar. 28/07/2020
+- We probably don't need to create and implement Kafka for this kind of project: the stream can be ingested using requests and manage the connections. For now i can be able to download 50k tweets in an online mongoDB. Then i need to analyze the tweet in order to gain information about when they are loaded: i think that are in real time. Then i need to decide if i want the texts or the tweets in an elasticsearch server.
+
 ### Lun. 27/07/2020
 - Did the first Listener to the stream use simply a http get, everything saved in a mongoDB database. Then in the evening i'll do a quick analysis on the tweet.
 
