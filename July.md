@@ -1,3 +1,6 @@
+### Mer. 29/07/2020
+- Without the actual server i can't do much. The stream listener works and it saves everything on MongoDB: i checked the stream on every partition and it seems costant. Also [THIS](https://www.youtube.com/watch?v=pt8VYOfr8To) don't help.
+
 ### Mar. 28/07/2020
 - We probably don't need to create and implement Kafka for this kind of project: the stream can be ingested using requests and manage the connections. For now i can be able to download 50k tweets in an online mongoDB. Then i need to analyze the tweet in order to gain information about when they are loaded: i think that are in real time. Then i need to decide if i want the texts or the tweets in an elasticsearch server.
 
