@@ -12,7 +12,7 @@
 - [x] GANTT and understand how much time for every step
 
 ### 1. Data Managment (01/08/2020 - 01/09/2020)
-[*BLOG*](July.md)
+[*BLOG*](August.md)
 - [ ] Kafka for stream acquisition
 - [ ] Kafka, MongoDB and TwitterListener in Docker on Azure
 - [ ] Jupyter/Spark in Docker on HDFS that load MongoDB (is that possible?)
