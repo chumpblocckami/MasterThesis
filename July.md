@@ -1,3 +1,6 @@
+### Giov. 30/07/2020 - Ven. 31/07/2020
+- Laorà!
+
 ### Mer. 29/07/2020
 - Without the actual server i can't do much. The stream listener works and it saves everything on MongoDB: i checked the stream on every partition and it seems costant. Also [THIS](https://www.youtube.com/watch?v=pt8VYOfr8To) don't help.
 
