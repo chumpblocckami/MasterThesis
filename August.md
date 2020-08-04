@@ -6,5 +6,6 @@ In the meantime i used [Text-clean](https://github.com/jfilter/clean-text) for c
 
 ### Lun. 03.08.2020
 Setting up the conda enviroment, updated all packages and created another cluster in MongoDB. It took all days, because my computer is commodity hardware and because there was problem with dns connecting to the mongoDB online cluster.
+
 ### Sab 01.08.2020 - Dom. 02.08.2020
-- Relax
+Relax
