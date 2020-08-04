@@ -19,7 +19,7 @@
 
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
 - [ ] Spark 
-- [ ] Keras/Theano in Spark
+- [ ] Keras/*Theano* in Spark
 - [ ] Community detection
 - [ ] Sentiment Analysis
 - [ ] Other models for mental state detection
