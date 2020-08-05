@@ -13,11 +13,13 @@
 
 ### 1. Data Managment (01/08/2020 - 01/09/2020)
 [*BLOG*](August.md)
-- [ ] Kafka for stream acquisition
-- [ ] Kafka, MongoDB and TwitterListener in Docker on Azure
-- [ ] Jupyter/Spark in Docker on HDFS that load MongoDB (is that possible?)
+- [ ] ~~Kafka for stream acquisition~~ 
+- [ ] ~~Kafka, MongoDB and TwitterListener in Docker on Azure
+- [ ] ~~Jupyter/Spark in Docker on HDFS that load MongoDB (is that possible?)~~ might need
+- [x] Working offline listener
+- [ ] Master-Slave architecture for parallelize listeners and save them into the big database
 - [ ] ElasticSearch on Lab-Server
-
+* FINAL GOAL: FAST, RELIABLE, USABLE DATABASE THAT AUTOMATIC UPDATES ITSELF USING THE STREAM *
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
 - [ ] Spark 
 - [ ] Keras/*Theano* in Spark
