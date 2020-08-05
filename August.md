@@ -1,3 +1,7 @@
+### Mer. 05.08.2020
+So my computer crashes following the updates of Windows 10 and i spent the entire morining fix it. Then the listener with only the valuable attributes of tweets doesn't want to start, so essentialy today is almost a dead day. Tried to save the date looking for a way to connect MongoDB and Elasticsearch so then i'll have a fast way to collect and manage tweet text in analysis mode. I'll try to get things work for the rest of the day, but it will probably took also tomorrow.
+I'll consider the option to migrate on google colab if my computer won't work, using online resources until i'll have the access to the unimib computer.
+
 ### Mar. 04.08.2020
 Run out of memory on MongoDB online, but for now it's enough.
 I downloaded 82363 documents, with a total size of 511.54MB.
