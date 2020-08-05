@@ -14,7 +14,7 @@ ATTRS = ["id","created_at","in_reply_to_user_id","in_reply_to_status_id","lang",
 - I need to consider to add 'link' references, such as complete link that i might need to scrape them.
 
 ### Lun. 03.08.2020
-Setting up the conda enviroment, updated all packages and created another cluster in MongoDB. It took all days, because my computer is commodity hardware and because there was problem with dns connecting to the mongoDB online cluster.
+Setting up the conda enviroment, updated all packages and created another cluster in MongoDB. It took all day, because my computer is commodity hardware and because there was problem with dns connecting to the mongoDB online cluster.
 
 ### Sab 01.08.2020 - Dom. 02.08.2020
-Relax
+Week end offline
