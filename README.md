@@ -45,7 +45,7 @@
 - [Assessing the Distributional Hypothesis in Word Bigrams](https://iris.unitn.it/retrieve/handle/11572/249655/297594/2019_how_much_competence_in_performance.pdf)
 
 #### Conda:
--[Anaconda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+- [Anaconda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 #### Latent Dirichlet Allocation
 - [Latent Dirichlet Allocation Andrew Y. Ng](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
@@ -56,7 +56,7 @@
 - [SOTA: stance detection](https://paperswithcode.com/sota/stance-detection-on-rumoureval)
 
 ##### Note:
-- Carlo Strapparava è di Trento
+
 
 
 That's all (**for now.**)
