@@ -3,6 +3,9 @@ Solved every problems that i had yesterday, fixed the listener and finally get s
 I also learnt the difference between RETWEET and REPLY: in the first case, you reply to a tweet, in the second one you retweet it (exactly as written). Lots of people retweet instead of simply reply, so well i have to re-download a lots of data in order to gain retweet information.
 BTW the stream now seems to work, probably need to set up for longer run (24h+) and try to have fault tolerance on the mongosDB.
 
+N.B: The cluster went **Out of Memory** after 5 hours of stream, with 1_460_368 tweets of size 471.24MB and indexes of 13.98MB.
+
+
 ### Mer. 05.08.2020
 So my computer crashes following the updates of Windows 10 and i spent the entire morining fix it. Then the listener with only the valuable attributes of tweets doesn't want to start, so essentialy today is almost a dead day. Tried to save the date looking for a way to connect MongoDB and Elasticsearch so then i'll have a fast way to collect and manage tweet text in analysis mode. I'll try to get things work for the rest of the day, but it will probably took also tomorrow.
 I'll consider the option to migrate on google colab if my computer won't work, using online resources until i'll have the access to the unimib computer.
