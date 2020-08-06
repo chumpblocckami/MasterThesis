@@ -20,6 +20,7 @@
 - [ ] Master-Slave architecture for parallelize listeners and save them into the big database
 - [ ] ElasticSearch on Lab-Server for query for text ingestion
 - [ ] Neo4j/Gephi on Lab-Server for graph analisis
+
 **FINAL GOAL: FAST, RELIABLE, USABLE DATABASE(s) THAT AUTOMATIC UPDATES ITSELF USING THE STREAM**
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
 - [ ] Spark 
