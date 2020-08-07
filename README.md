@@ -38,6 +38,7 @@
 - [Kafka Documentation](https://kafka.apache.org/documentation)
 - [Elastic Search Python Driver](https://elasticsearch-py.readthedocs.io/en/master/)
 - [Redis](https://redis.io/)
+- [Telegram bot on heroku](https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2)
 
 ### Literature and interesting stuff:
 
