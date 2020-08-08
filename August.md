@@ -1,3 +1,13 @@
+### Sab. 08/08/2020
+Applied LDA in order to get topics togheter, but there are bottlenecks:
+  1. Languages -> need to figure out to 
+  2. Preprocess -> more languages, more very specific preprocessing techniques
+  3. Power -> my computer sucks and i dont want/dont need to optimize code also in a preliminary phase.
+  
+I need to ask if the analysis will be applied to simple english tweets or might be generalized to other languages: if so, i need a way to pass certain preprocess to a tweet based on lang, or maybe 'translate' everything in a lingua-franca: need to think on. 
+The best way to me is to split the tweet based on the language, and sanity check the conditions (for example, number of tweets for every language), and from them apply all the preprocessing stopwords removal ecc needed.
+Also probably I need to migrate on Google Colab since i don't want to wait 60+ minutes only to do the preprocessing (and also need to apply LDA).
+  
 ### Ven. 07/08/2020
 Created a TelegramBot in order to be updated on twitter stream: it has only one feature but can scale quickly, because its very easy to add things. I deployed on Heroku BUT since i dont want to open the connection to anyone on MongoDB cluster and Heroku server doesn't have a static IP, i cannot whitelist them and so the bot will work only when it will be updated in the uni computer. The rest of the day i'll try to create other features and stuff, then i'll read redis and i'm going to have a read on transformers.
 
