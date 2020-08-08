@@ -59,7 +59,7 @@
 - [SOTA: stance detection](https://paperswithcode.com/sota/stance-detection-on-rumoureval)
 
 ##### Note:
-
+- Attended [AI for people workshop](https://github.com/aiforpeople-git/First-AI4People-Workshop), really insightful
 
 
 That's all (**for now.**)
