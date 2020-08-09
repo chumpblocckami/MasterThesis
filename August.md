@@ -1,3 +1,7 @@
+### Dom. 09/08/2020
+Divided tweets per languages and applied LDA on one batch. Probably there will be problem loading and preprocess the tweets in real time, but one thing every day.
+I'll probably use REDIS for ingestion and 'waiting' on preprocess, then i'll upload the processed tweet on a mongodb cluster based on language.
+
 ### Sab. 08/08/2020
 Applied LDA in order to get topics togheter, but there are bottlenecks:
   1. Languages -> need to figure out to 
