@@ -1,3 +1,6 @@
+### Lun. 10/08/2020
+Installed Redis on Google Colab and experiment with it. Finished the LDA on english tweets and looked for NLP Multilingual libraries, found [HANLP](https://github.com/hankcs/HanLP). What i figured out is that i need to preprocess every tweet BEFORE adding it to MongoDB, so i need something that will queque the stream, such as Redis (that is also good for exactly once). So essentialy i process then commit to db, saving time when i'll analyze the tweet. Another idea will be to get with Redis from MongoDB, but i need to study more the architecture.
+
 ### Dom. 09/08/2020
 Divided tweets per languages and applied LDA on one batch. Probably there will be problem loading and preprocess the tweets in real time, but one thing every day.
 I'll probably use REDIS for ingestion and 'waiting' on preprocess, then i'll upload the processed tweet on a mongodb cluster based on language.
