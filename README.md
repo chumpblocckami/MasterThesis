@@ -17,7 +17,7 @@
 - [ ] ~~Kafka, MongoDB and TwitterListener in Docker on Azure~~ don't since collection is not real time and server is proprietary
 - [ ] ~~Jupyter/Spark in Docker on HDFS that load MongoDB (is that possible?)~~ might need
 - [x] Working offline listener
-- [ ] Redis stream for data ingestion
+- [x] Redis stream for data ingestion
 - [ ] ~~Master-Slave architecture for parallelize listeners and save them into the big database~~
 - [ ] ElasticSearch on Lab-Server for query for text ingestion
 - [ ] Neo4j/Gephi on Lab-Server for graph analisis
