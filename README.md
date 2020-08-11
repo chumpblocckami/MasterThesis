@@ -40,7 +40,7 @@
 - [Elastic Search Python Driver](https://elasticsearch-py.readthedocs.io/en/master/)
 - [Redis](https://redis.io/)
 - [Telegram bot on heroku](https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2)
-
+- [pyRedis](https://realpython.com/python-redis/#using-key-expiry)
 ### Literature and interesting stuff:
 
 #### General:
