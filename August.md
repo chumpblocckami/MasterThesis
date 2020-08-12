@@ -1,3 +1,9 @@
+### Mer. 12/08/2020
+Updated and optimized redis architecture for tweets. Now it's lightning fast (storing 1.5k tweets every updates), we can also add the in-memory preprocessing before store it in the mongodb cluster.
+
+### Mart. 11/08/2020
+Did subscriber/consumer redis architecture for tweets.
+
 ### Lun. 10/08/2020
 Installed Redis on Google Colab and experiment with it. Finished the LDA on english tweets and looked for NLP Multilingual libraries, found [HANLP](https://github.com/hankcs/HanLP). What i figured out is that i need to preprocess every tweet BEFORE adding it to MongoDB, so i need something that will queque the stream, such as Redis (that is also good for exactly once). So essentialy i process then commit to db, saving time when i'll analyze the tweet. Another idea will be to get with Redis from MongoDB, but i need to study more the architecture.
 UPDATE: Windows is no long supported by Redis (lol).
