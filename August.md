@@ -1,5 +1,6 @@
 ### Gio. 13/08/2020
 Today was a good day! Migrated the architecture on Lab Server and it actually works in the first glance! I had trouble to start MongoDB in localhost since there were running istances of it in other users, and it probably has some conflict. btw every worked fine, a small step to the right direction! :)
+Today i'll finish the test, i'll think about what to download more (other text features or stuff like that) and i'll probably start the ingestion on August 15th.
 
 ### Mer. 12/08/2020
 Updated and optimized redis architecture for tweets. Now it's lightning fast (storing 1.5k tweets every updates), we can also add the in-memory preprocessing before store it in the mongodb cluster.
