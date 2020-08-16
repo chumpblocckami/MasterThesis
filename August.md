@@ -1,3 +1,12 @@
+### Dom. 16/08/2020
+Presentation and reading of [SOTA MODELS](https://paperswithcode.com/sota)
+
+### Sab. 15/08/2020
+Ferragosto
+
+### Ven. 14/08/2020
+Testing and stuff on lab's computer
+
 ### Gio. 13/08/2020
 Today was a good day! Migrated the architecture on Lab Server and it actually works in the first glance! I had trouble to start MongoDB in localhost since there were running istances of it in other users, and it probably has some conflict. btw every worked fine, a small step to the right direction! :)
 Today i'll finish the test, i'll think about what to download more (other text features or stuff like that) and i'll probably start the ingestion on August 15th.
