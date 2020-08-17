@@ -1,3 +1,6 @@
+### Lun. 17/08/2020
+Did testing and refined which metadata to get from stream. Also decided on which languages focusing for the analysis: **ENG ITA ESP**.
+
 ### Dom. 16/08/2020
 Presentation and reading of [SOTA MODELS](https://paperswithcode.com/sota)
 
