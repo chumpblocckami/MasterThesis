@@ -1,3 +1,6 @@
+### Mar. 18/08/2020
+Testing 
+
 ### Lun. 17/08/2020
 Did testing and refined which metadata to get from stream. Also decided on which languages focusing for the analysis: **ENG ITA ESP**.
 
