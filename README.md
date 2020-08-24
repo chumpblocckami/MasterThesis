@@ -18,7 +18,7 @@
 - [x] Redis Subscriber
 - [x] Redis Consumer
 - [x] Filter on metadata
-- [-] Telegram Updates **fancy**
+- [ ] Telegram Updates **fancy**
 
 **FINAL GOAL: FAST, RELIABLE, USABLE DATABASE(s) THAT AUTOMATIC UPDATES ITSELF USING THE STREAM**
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
