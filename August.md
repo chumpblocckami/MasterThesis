@@ -1,3 +1,6 @@
+### Mar. 25/08/2020
+Did some testing and officialy started the stream! Now i can close the data ingestion part, and i have to focus on data analytics and model shapeing.
+
 ### Mar. 18/08/2020
 Testing 
 
