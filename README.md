@@ -39,6 +39,7 @@
 - [Redis](https://redis.io/)
 - [Telegram bot on heroku](https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2)
 - [pyRedis](https://realpython.com/python-redis/#using-key-expiry)
+- [Spacy loves Cython](https://nbviewer.jupyter.org/github/huggingface/100-times-faster-nlp/blob/master/100-times-faster-nlp-in-python.ipynb)
 ### Literature and interesting stuff:
 
 #### General:
@@ -61,6 +62,5 @@
 
 ##### Note:
 - Attended [AI for people workshop](https://github.com/aiforpeople-git/First-AI4People-Workshop), really insightful
-
 
 That's all (**for now.**)
