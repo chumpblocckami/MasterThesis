@@ -46,6 +46,8 @@
 - [Learning to identify emotions in text](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.62&rep=rep1&type=pdf)
 - [Assessing the Distributional Hypothesis in Word Bigrams](https://iris.unitn.it/retrieve/handle/11572/249655/297594/2019_how_much_competence_in_performance.pdf)
 - [Moral information metrics from textual data](https://github.com/medianeuroscience/emfdscore)
+- [Flair: State of the art NLP](https://github.com/flairNLP/flair)
+
 #### Conda:
 - [Anaconda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
