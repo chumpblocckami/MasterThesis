@@ -24,7 +24,7 @@
 
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
 [*BLOG*](September.md)
-- [ ] ~~Spark ~~
+- [ ] ~~Spark~~
 - [ ] ~~Keras/*Theano* in Spark~~
 - [ ]  - Use simple and plain Python for preprocessign if Bert or other language models are not used
        - Use Keras if Transformers is the way to go 
