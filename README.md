@@ -21,13 +21,17 @@
 - [ ] Telegram Updates **fancy**
 
 **FINAL GOAL: FAST, RELIABLE, USABLE DATABASE THAT AUTOMATIC UPDATES ITSELF USING THE STREAM**
+
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
-- [ ] Spark 
-- [ ] Keras/*Theano* in Spark
+[*BLOG*](September.md)
+- [ ] ~~Spark ~~
+- [ ] ~~Keras/*Theano* in Spark~~
+- [ ]  - Use simple and plain Python for preprocessign if Bert or other language models are not used
+       - Use Keras if Transformers is the way to go 
 - [ ] Community detection
 - [ ] Sentiment Analysis
-- [ ] Other models for mental state detection
-- [ ] Optimization
+- [ ] ~~Other models for mental state detection~~
+- [ ] Optimization *NEVERENDING*
 
 ### 3. Presentation (01/01/2021 - )
 - [ ] What and How present everything
@@ -52,9 +56,11 @@
 #### Conda:
 - [Anaconda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
-#### Latent Dirichlet Allocation
+#### LDA
 - [Latent Dirichlet Allocation Andrew Y. Ng](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
+#### Sentiment Analysis
+- [VADER](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 #### Stance Detection:
 - [Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention](https://arxiv.org/pdf/1801.03032.pdf)
 - [Stance Detection in Web and Social Media: A Comparative Study](https://arxiv.org/pdf/2007.05976.pdf)
