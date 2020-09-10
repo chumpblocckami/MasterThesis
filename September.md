@@ -3,7 +3,6 @@ Finished first script for SentimentAnalysis: is very lightweight and seems to wo
 The next step is to retrive in batch the tweets in MongoDB and then compute sentiment analysis. 
 I google for neural approaches for sentiment analysis but using BERT or other pre trained means to reduce the problem to a classification task (like on movie review, sentiment analysis is associated to predict the value of the review). This can be exploided (using words to words approached in order to check if a given words change the review in positive or in negative) 'but i dont need to reinvent the wheel soooo.
 I also need to check the dicts used by Vader. If i dont like it or its not usable (no domain specific), i'll fork and customize everything.
-
 [Github repository for Vader](https://github.com/cjhutto/vaderSentiment)
 
 ### Mer. 09/09/2020
