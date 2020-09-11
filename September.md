@@ -1,3 +1,6 @@
+### Ven. 11/09/2020
+[https://github.com/amaiya/ktrain](KTRAIN) Seems exactly what i was looking. No time today for code, but i'll probably start from here!
+
 ### Gio. 10/09/2020
 Finished first script for SentimentAnalysis: is very lightweight and seems to work fine. I used Vader and for non-english input i used a translation: btw i need to check the request rate. 
 The next step is to retrive in batch the tweets in MongoDB and then compute sentiment analysis. 
