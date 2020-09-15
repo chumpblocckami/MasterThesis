@@ -61,6 +61,9 @@
 
 #### Sentiment Analysis
 - [VADER](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+
+#### Sentence Transformer
+- [SENTENCE TRANSFORMER] (https://github.com/UKPLab/sentence-transformers)
 #### Stance Detection:
 - [Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention](https://arxiv.org/pdf/1801.03032.pdf)
 - [Stance Detection in Web and Social Media: A Comparative Study](https://arxiv.org/pdf/2007.05976.pdf)
