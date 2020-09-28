@@ -5,14 +5,14 @@
 
 ## TO DO LIST:
 ### 0. Beginning (18/07/2020 - 01/08/2020)
-[*BLOG*](July.md)
+[*BLOG*](BLOG/July.md)
 
 - [x] How pages works, know the syntax, try to understand how add pages
 - [x] Read some literature about detect mental state using NLP 
 - [x] GANTT and understand how much time for every step
 
 ### 1. Data Ingestion (01/08/2020 - 01/09/2020)
-[*BLOG*](August.md)
+[*BLOG*](BLOG/August.md)
 - [x] Working offline listener
 - [x] Redis stream for data ingestion
 - [x] Redis Subscriber
@@ -23,7 +23,7 @@
 **FINAL GOAL: FAST, RELIABLE, USABLE DATABASE THAT AUTOMATIC UPDATES ITSELF USING THE STREAM**
 
 ### 2. Data Analysis (01/09/2020 - 01/11/2020)
-[*BLOG*](September.md)
+[*BLOG*](BLOG/September.md)
 - [ ] ~~Spark~~
 - [ ] ~~Keras/*Theano* in Spark~~
 - [ ]  - Use simple and plain Python for preprocessign if Bert or other language models are not used
