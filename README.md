@@ -11,7 +11,7 @@
 - [x] Read some literature about detect mental state using NLP 
 - [x] GANTT and understand how much time for every step
 
-### 1. Data Managment (01/08/2020 - 01/09/2020)
+### 1. Data Ingestion (01/08/2020 - 01/09/2020)
 [*BLOG*](August.md)
 - [x] Working offline listener
 - [x] Redis stream for data ingestion
