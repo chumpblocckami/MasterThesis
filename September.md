@@ -1,3 +1,6 @@
+### Lun. 28/09/2020
+It's been ages since my last commit, but i was really over with exams and work. I did a mongoDB integrator in order to add values retrieved using the id from the tweets. It's quite slow and probably has has some limitations, but is a beginning. So i'll plan to fix the mongodb and the data pretty soon, and then there will be times to add analysis. Hope to finish by the time!
+
 ### Ven. 11/09/2020
 [https://github.com/amaiya/ktrain](KTRAIN) Seems exactly what i was looking. No time today for code, but i'll probably start from here!
 
