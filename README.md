@@ -26,10 +26,9 @@
 [*BLOG*](BLOG/September.md)
 - [ ] ~~Spark~~
 - [ ] ~~Keras/*Theano* in Spark~~
-- [ ]  - Use simple and plain Python for preprocessign if Bert or other language models are not used
-       - Use Keras if Transformers is the way to go 
+- [ ]  - Use simple and plain Python for preprocessing
 - [ ] Community detection
-- [ ] Sentiment Analysis
+- [x] Sentiment Analysis (VADER)
 - [ ] ~~Other models for mental state detection~~
 - [ ] Optimization *NEVERENDING*
 
