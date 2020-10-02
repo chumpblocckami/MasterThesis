@@ -26,8 +26,8 @@
 [*BLOG*](BLOG/September.md)
 - [ ] ~~Spark~~
 - [ ] ~~Keras/*Theano* in Spark~~
-- [ ]  - Use simple and plain Python for preprocessing
-- [ ] Community detection
+- [ ] Use simple and plain Python for preprocessing
+- [x] Community detection
 - [x] Sentiment Analysis (VADER)
 - [ ] ~~Other models for mental state detection~~
 - [ ] Optimization *NEVERENDING*
